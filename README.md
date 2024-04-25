@@ -1,4 +1,4 @@
-# cobalt.py Python Wrapper
+# cobalt_py Python Wrapper
 ## About
 This is a Python wrapper for the cobalt.tools API. With this wrapper, you can easily make requests to the cobalt API from your Python applications.
 
